@@ -2,7 +2,7 @@
 
 ## 提前准备
 
-- 完成lec５的视频学习和提交对应的在线练习
+- 完成lec５的视频学习和提交对应的在线练习。
 - git pull ucore_os_lab, v9_cpu, os_course_spoc_exercises 　in github repos。这样可以在本机上完成课堂练习。
 - 理解连续内存动态分配算法的实现（主要自学和网上查找）
 
